@@ -1,0 +1,3 @@
+# Quick note Changelog
+
+## [Initial Version] - 2022-08-10
